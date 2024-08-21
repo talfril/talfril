@@ -29,9 +29,10 @@
 
 ## pet projects
 🔸Приложение для домашних кулинаров https://github.com/talfril/cookingList (репозиторий https://github.com/talfril/cookingList ) 
-*react, роутинг, typeScript, SPA*
+<sub>*react, роутинг, typeScript, SPA* </sub>
+
 🔸Игра "Змейка" https://talfril.github.io/corgi-s_Snack/ (репозиторий https://github.com/talfril/corgi-s_Snack )
-*ванильный js, canvas*
+<sub>*ванильный js, canvas* </sub>
 ## 📪Со мной можно связаться:
 🔹linkedin.com/in/анна-набокова-51392a317
 🔹talfril@yandex.ru
