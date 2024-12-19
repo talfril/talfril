@@ -26,22 +26,22 @@
 
 ## мои проекты
 🔸Телеграм приложение https://t.me/AnnysTestBot/MyMiniTgApp (репозиторий https://github.com/talfril/my-tg-mini-app )
-<sub>*websocket, работа с API, typeScript, React, React Route, telegram-apps* </sub>
+*<sub>*websocket, работа с API, typeScript, React, React Route, telegram-apps* </sub>
 
 🔸Приложение "Magic Code" https://talfrils-magic-code.vercel.app/ (репозиторий https://github.com/talfril/magicCode )
-<sub>*react, typeScript, material UI, AceEditor* </sub>
+*<sub>*react, typeScript, material UI, AceEditor* </sub>
 
 🔸Приложение для домашних кулинаров https://talfril.github.io/cookingList/ (репозиторий https://github.com/talfril/cookingList ) 
-<sub>*react, роутинг, typeScript, SPA* </sub>
+*<sub>*react, роутинг, typeScript, SPA* </sub>
 
 🔸Игра "Змейка" https://talfril.github.io/corgi-s_Snack/ (репозиторий https://github.com/talfril/corgi-s_Snack )
-<sub>*ванильный js, canvas* </sub>
+*<sub>*ванильный js, canvas* </sub>
 
 🔸Проект "Космическая бургерная" https://talfril.github.io/stellar-burger/ (репозиторий https://github.com/talfril/stellar-burger )
-<sub>*typeScript, react, redux, работа с компонентами, работа с Api* </sub>
+*<sub>*typeScript, react, redux, работа с компонентами, работа с Api* </sub>
 
 🔸Проект "Закрывающий тег" https://talfril.github.io/zakrivayuschiy-teg-f/ (репозиторий https://github.com/talfril/zakrivayuschiy-teg-f)
-<sub>*html, css, svg* </sub>
+*<sub>*html, css, svg* </sub>
 
 ## 📪Со мной можно связаться:
 🔹linkedin.com/in/анна-набокова-51392a317
