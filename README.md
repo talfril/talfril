@@ -32,7 +32,7 @@
 <sub>*react, typeScript, material UI, AceEditor* </sub>
 
 🔸Приложение "ToDo List" https://to-do-ten-rouge.vercel.app/ (репозиторий https://github.com/talfril/toDo  )  
-<sub>*react, typeScript, material UI, Next.js, redux* </sub>
+<sub>*react, typeScript, material UI, Next.js, redux, работа с API* </sub>
 
 🔸Приложение для домашних кулинаров https://talfril.github.io/cookingList/ (репозиторий https://github.com/talfril/cookingList )  
 <sub>*react, роутинг, typeScript, SPA* </sub>
