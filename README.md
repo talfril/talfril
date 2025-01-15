@@ -43,6 +43,9 @@
 🔸Проект "Космическая бургерная" https://talfril.github.io/stellar-burger/ (репозиторий https://github.com/talfril/stellar-burger )  
 <sub>*typeScript, react, redux, работа с компонентами, работа с Api* </sub>
 
+🔸Проект "Web larek" https://talfril.github.io/web-larek-frontend/ (репозиторий https://github.com/talfril/web-larek-frontend )  
+<sub>*HTML, SCSS, typeScript, Webpack, ООП* </sub>
+
 🔸Проект "Закрывающий тег" https://talfril.github.io/zakrivayuschiy-teg-f/ (репозиторий https://github.com/talfril/zakrivayuschiy-teg-f)  
 <sub>*html, css, svg* </sub>
 
