@@ -35,7 +35,7 @@
 <sub>*react, typeScript, material UI, Next.js, redux, работа с API* </sub>
 
 🔸Приложение для домашних кулинаров https://talfril.github.io/cookingList/ (репозиторий https://github.com/talfril/cookingList )  
-<sub>*react, роутинг, typeScript, SPA* </sub>
+<sub>*react, роутинг, typeScript, SPA, storybook* </sub>
 
 🔸Игра "Змейка" https://talfril.github.io/corgi-s_Snack/ (репозиторий https://github.com/talfril/corgi-s_Snack )  
 <sub>*ванильный js, canvas* </sub>
