@@ -20,7 +20,7 @@
 🔸Redux
 🔸Material Ui
 🔸Canvas
-🔸Написание тестов (Jest, Cypress)
+🔸i18next
 
 ## Мои проекты
 🔸Телеграм приложение https://t.me/AnnysTestBot/MyMiniTgApp (репозиторий https://github.com/talfril/my-tg-mini-app )  
